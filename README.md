@@ -1,18 +1,18 @@
 # Setup React App
 
-Clone the project using git clone command.
+Clone the project using below command.\
 git clone
 
-## Install dependencies
+### Install dependencies
 
-Open CMD, go to project directory and run the belwo command:
+Open CMD, go to project directory and run the below command:\
 npm install
 
 ### Run the app
-Run the below command in cmd once all the dependiencies has been installed from previous step:
+Run the below command in cmd once all the dependiencies has been installed from previous step:\
 npm start
-It runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
 
 The page will reload if you make edits.\
 
